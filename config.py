@@ -1,0 +1,2 @@
+# OpenAI API key
+apikey = "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" 
